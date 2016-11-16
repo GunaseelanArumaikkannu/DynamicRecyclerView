@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DynamicRecyclerView</string>
+
+    <string name="add_column">+ Column</string>
+    <string name="decrease_column">- Column</string>
+</resources>
